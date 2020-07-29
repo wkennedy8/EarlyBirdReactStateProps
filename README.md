@@ -1,12 +1,12 @@
 # Review of React Props and State
 
-## Clone this repo
+## Initial Setup
 
-## cd into the early-bird-react-state-props directory
+1. Clone this repository
+2. cd into the early-bird-react-state-props directory
+3. type `yarn start` to get started.
 
-## type `yarn start` to get started.
-
-# Instructions
+## Instructions
 
 1. Create a components directory inside the src directory.
 2. Create a Lightbulb.js file inside of the components directory.
