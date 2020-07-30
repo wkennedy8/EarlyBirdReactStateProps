@@ -4,3 +4,25 @@
   align-items: center;
   justify-content: center;
 }
+
+.image {
+  display: flex;
+  flex-direction: column;
+}
+
+.image img {
+  height: 300px;
+  width: 300px;
+}
+
+.black {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.none {
+  display: none;
+}

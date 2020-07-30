@@ -4,7 +4,8 @@
 
 1. Clone this repository
 2. cd into the early-bird-react-state-props directory
-3. type `yarn start` to get started.
+3. type `yarn`
+4. type `yarn start` to get started.
 
 ## Instructions
 
